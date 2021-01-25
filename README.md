@@ -1,3 +1,3 @@
-# Demo Django Docker NGINX Production Deployment
+# PROJET DEPLOIEMENT - DOCKER + NGINX + DJANGO
 
-Demo of a Django deployment setup using Docker.
+note : ce projet a été réalisé par imitation lors d'une de mes veilles, il me sert de support lors de la création de script docker, docker-compose. Il doit être vu comme un outils de travail.
